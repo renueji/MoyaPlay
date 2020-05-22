@@ -1,0 +1,18 @@
+@objc dynamic var address: String?
+    @objc dynamic var image: String?
+    @objc dynamic var time: String?
+    @objc dynamic var id: String?
+    @objc dynamic var price: String?
+    @objc dynamic var name: String?
+    @objc dynamic var area1: String?
+    @objc dynamic var area2: String?
+    @objc dynamic var area3: String?
+    @objc dynamic var area4: String?
+    @objc dynamic var deviation: String?
+    @objc dynamic var schoolType: String?
+    @objc dynamic var catchCopy: String?
+    @objc dynamic var tel: String?
+    @objc dynamic var consistentType: String?
+    @objc dynamic var homepage: String?
+	
+	//Optional(["address": "東京都杉並区阿佐谷南2丁目30-17", "image": "https://school.ab-sol.biz/wp-content/uploads/2020/05/NO_IMAGE.png", "time": "1152時間/年", "school_id": "360", "price": "約97万円", "name": "杉並学院中学校", "area1": "関東", "deviation": "偏差値54", "schoolType": "募集停止中", "catchCopy": "", "tel": "03-3316-3311", "consistentType": "私立中高一貫校（併設型）", "homepage": "http://www.suginami.ac.jp/", "area3": "杉並区", "area2": "東京都", "area4": ""])//
