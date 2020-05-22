@@ -1,0 +1,6 @@
+framework module Pods_MoyaPlay {
+  umbrella header "Pods-MoyaPlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
